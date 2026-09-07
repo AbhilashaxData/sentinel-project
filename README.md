@@ -337,8 +337,8 @@ This project is part of my exploration of applying computational and statistical
 
 I'd love to connect and exchange ideas around data science, machine learning, statistics, and geospatial analytics. 🌱
 
-- 💻 **GitHub:** [Your GitHub Profile](https:/github.com/AbhilashaxData)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/abhilasha-das-375a95324)
+- 💻 [GitHub](https:/github.com/AbhilashaxData)
+- 💼 [LinkedIn](www.linkedin.com/in/abhilasha-das1)
 
 ---
 
